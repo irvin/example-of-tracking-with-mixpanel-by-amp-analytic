@@ -1,0 +1,8 @@
+{
+  "event":"page_view",
+  "properties": {
+    "token":"_____REMOVED_TOKEN______",
+    "current_page_title":"DUMMY_PAGE_amp mixpanel testcase",
+    "MORE_VARIABLES":"MORE_VARIABLE_VALUE"
+  }
+}
